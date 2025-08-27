@@ -13,12 +13,20 @@ Um pouco sobre mim:
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f47b20?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![MediatR](https://img.shields.io/badge/MediatR-2C2255?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-009688?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge&logoColor=white)
+![Microsserviços](https://img.shields.io/badge/Microsserviços-FF6F61?style=for-the-badge&logoColor=white)
+![Monolítico](https://img.shields.io/badge/Monolítico-6C5B7B?style=for-the-badge&logoColor=white)
+![Testes Unitários](https://img.shields.io/badge/Testes%20Unitários-FFD700?style=for-the-badge&logoColor=white)
+
 
 ### 🛠 IDE and Editors:
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&style=plastic) 
@@ -49,9 +57,9 @@ Um pouco sobre mim:
 
 | **Projeto** | **Tecnologias** | **Descrição** | **Repositório** |
 |------------|-----------------|---------------|------------------|
-| **MotoDelivery API** | ![.NET](https://img.shields.io/badge/.NET_7-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f47b20?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) | API para gerenciamento de motos, entregadores e locações, construída com **DDD, CQRS e Clean Architecture**. Possui mensageria com **Rebus** e **RabbitMQ**, além de integração com bancos relacionais e NoSQL. | [🔗 Acessar](https://github.com/seu-usuario/MotoDelivery) |
-| **DeveloperStore API** | ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MediatR](https://img.shields.io/badge/MediatR-2C2255?style=for-the-badge&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | API de vendas com **DDD, CQRS, eventos de domínio** e integração com **RabbitMQ** via **MassTransit**. Possui autenticação JWT, documentação Swagger e regras de desconto baseadas na quantidade de itens. | [🔗 Acessar](https://github.com/seu-usuario/DeveloperStore) |
-| **DeveloperStore APP** | ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Aplicação **Angular 20** para consumo da **DeveloperStore API**, com design responsivo, autenticação JWT e integração com APIs RESTful. Implementa boas práticas de **Clean Code** e **SSR com Express**. | [🔗 Acessar](https://github.com/seu-usuario/DeveloperStore.APP) |
+| **MotoDelivery API** | ![.NET](https://img.shields.io/badge/.NET_7-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f47b20?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) | API para gerenciamento de motos, entregadores e locações, construída com **DDD, CQRS e Clean Architecture**. Possui mensageria com **Rebus** e **RabbitMQ**, além de integração com bancos relacionais e NoSQL. | [🔗 Acessar](https://github.com/mondryalawennd/MotoDelivery) |
+| **DeveloperStore API** | ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MediatR](https://img.shields.io/badge/MediatR-2C2255?style=for-the-badge&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | API de vendas com **DDD, CQRS, eventos de domínio** e integração com **RabbitMQ** via **MassTransit**. Possui autenticação JWT, documentação Swagger e regras de desconto baseadas na quantidade de itens. | [🔗 Acessar](https://github.com/mondryalawennd/DeveloperStore) |
+| **DeveloperStore APP** | ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Aplicação **Angular 20** para consumo da **DeveloperStore API**, com design responsivo, autenticação JWT e integração com APIs RESTful. Implementa boas práticas de **Clean Code** e **SSR com Express**. | [🔗 Acessar](https://github.com/mondryalawennd/DeveloperStore.APP) |
 
 
 ### 💡  Languages used in Github
